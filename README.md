@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Roamly — Personalized Travel Itinerary Planner
 
 A polished React + Vite + Express travel planner with an AI-ready itinerary API.
@@ -45,3 +46,6 @@ npm run build
 npm test
 npm run lint
 ```
+=======
+# Personalized-Travel-Itinerary-Planner
+>>>>>>> 4370933e37dc584267b3b5b2b5074fe4aad7a44a
